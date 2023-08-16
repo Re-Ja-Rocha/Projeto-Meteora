@@ -1,0 +1,44 @@
+
+:root{
+    --cor-preto:#000000;
+    --cor-cinza: #CCCCCC;
+    --cor-verde:#DAFF01;
+    --cor-lilas:#9353ff;
+
+
+}
+
+.texto-menor{
+    font-size: 13px;
+}
+
+.divs-facilidades{
+    width: 325px;
+}
+
+.fundo__preto{
+    background-color: var(--cor-preto);
+}
+
+.texto__verde{
+    color: var(--cor-verde);
+}
+.fundo__verde{
+    background-color: var(--cor-verde);
+}
+
+.fundo__lilas{
+    background-color: var(--cor-lilas);
+    border-color: var(--cor-lilas);
+}
+
+.fundo__lilas:hover{
+    background-color: var(--cor-lilas);
+    border-color: var(--cor-lilas);
+    color: white;
+}
+
+/* .espaço{
+    padding: 10px;
+} */
+
